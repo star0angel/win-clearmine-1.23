@@ -1,0 +1,99 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG31               PNG                     "res\\0.png"
+
+IDB_PNG32               PNG                     "res\\1.png"
+
+IDB_PNG33               PNG                     "res\\2.png"
+
+IDB_PNG34               PNG                     "res\\3.png"
+
+IDB_PNG35               PNG                     "res\\4.png"
+
+IDB_PNG36               PNG                     "res\\5.png"
+
+IDB_PNG37               PNG                     "res\\6.png"
+
+IDB_PNG38               PNG                     "res\\7.png"
+
+IDB_PNG39               PNG                     "res\\8.png"
+
+IDB_PNG40               PNG                     "res\\9.png"
+
+IDB_PNG41               PNG                     "res\\bomb.png"
+
+IDB_PNG42               PNG                     "res\\flag.png"
+
+IDB_PNG43               PNG                     "res\\flag2.png"
+
+IDB_PNG44               PNG                     "res\\icon.png"
+
+IDB_PNG45               PNG                     "res\\s.png"
+
+IDB_PNG46               PNG                     "res\\win.png"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
